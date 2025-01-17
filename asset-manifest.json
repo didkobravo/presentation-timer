@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/presentation-timer/static/css/main.4b161d75.chunk.css",
-    "main.js": "/presentation-timer/static/js/main.3adaf8eb.chunk.js",
-    "main.js.map": "/presentation-timer/static/js/main.3adaf8eb.chunk.js.map",
+    "main.js": "/presentation-timer/static/js/main.5929c6fb.chunk.js",
+    "main.js.map": "/presentation-timer/static/js/main.5929c6fb.chunk.js.map",
     "runtime~main.js": "/presentation-timer/static/js/runtime~main.b760edfc.js",
     "runtime~main.js.map": "/presentation-timer/static/js/runtime~main.b760edfc.js.map",
     "static/css/2.35687568.chunk.css": "/presentation-timer/static/css/2.35687568.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.760a3ae0.chunk.js": "/presentation-timer/static/js/3.760a3ae0.chunk.js",
     "static/js/3.760a3ae0.chunk.js.map": "/presentation-timer/static/js/3.760a3ae0.chunk.js.map",
     "index.html": "/presentation-timer/index.html",
-    "precache-manifest.efb7e2dd7c1fcf1588f359b63fbe35a6.js": "/presentation-timer/precache-manifest.efb7e2dd7c1fcf1588f359b63fbe35a6.js",
+    "precache-manifest.38ce82a59c02f89f013ee4256e020d67.js": "/presentation-timer/precache-manifest.38ce82a59c02f89f013ee4256e020d67.js",
     "service-worker.js": "/presentation-timer/service-worker.js",
     "static/css/2.35687568.chunk.css.map": "/presentation-timer/static/css/2.35687568.chunk.css.map",
     "static/css/main.4b161d75.chunk.css.map": "/presentation-timer/static/css/main.4b161d75.chunk.css.map"
